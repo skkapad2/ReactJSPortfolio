@@ -14,7 +14,7 @@ class Projects extends Component {
 <div className="projects-grid">
 	{/* Project 1*/}
 		<Card shadow={5} style={{midWidth: '450', margin: 'auto'}}>
-			<CardTitle style={{color: '#fff', height:'176px', background: 'url(https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png) center / cover'}}>React Project #1 </CardTitle>
+			<CardTitle style={{color: '#fff', height:'200px', background: 'url(https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png) center / cover'}}>React Project #1 </CardTitle>
 	          <CardText>
 	          Placeholder
 	          </CardText>
@@ -30,7 +30,7 @@ class Projects extends Component {
 	           </Card>
 	            	{/* Project 2*/}
 		<Card shadow={5} style={{midWidth: '450', margin: 'auto'}}>
-			<CardTitle style={{color: '#fff', height:'176px', background: 'url(https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png) center / cover'}}>React Project #1 </CardTitle>
+			<CardTitle style={{color: '#fff', height:'200px', background: 'url(https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png) center / cover'}}>React Project #1 </CardTitle>
 	          <CardText>
 	          Placeholder
 	          </CardText>
@@ -47,7 +47,7 @@ class Projects extends Component {
 
 	       {/* Project 3*/}
 		<Card shadow={5} style={{midWidth: '450', margin: 'auto'}}>
-			<CardTitle style={{color: '#fff', height:'176px', background: 'url(https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png) center / cover'}}>React Project #1 </CardTitle>
+			<CardTitle style={{color: '#fff', height:'200px', background: 'url(https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png) center / cover'}}>React Project #1 </CardTitle>
 	          <CardText>
 	          Placeholder
 	          </CardText>
@@ -74,7 +74,7 @@ class Projects extends Component {
 				<div className="projects-grid">
 	{/* Project 1*/}
 		<Card shadow={5} style={{midWidth: '450', margin: 'auto'}}>
-			<CardTitle style={{color: '#fff', height:'176px', background: 'url(https://cdn-images-1.medium.com/max/945/1*aYD002x4UBQ4iJCRbiKJrg.png) center / cover'}}>Angular Project #1 </CardTitle>
+			<CardTitle style={{color: '#fff', height:'200px', background: 'url(https://cdn-images-1.medium.com/max/945/1*aYD002x4UBQ4iJCRbiKJrg.png) center / cover'}}>Angular Project #1 </CardTitle>
 	          <CardText>
 	          Placeholder
 	          </CardText>
@@ -90,7 +90,7 @@ class Projects extends Component {
 	           </Card>
 	            	{/* Project 2*/}
 		<Card shadow={5} style={{midWidth: '450', margin: 'auto'}}>
-			<CardTitle style={{color: '#fff', height:'176px', background: 'url(https://cdn-images-1.medium.com/max/945/1*aYD002x4UBQ4iJCRbiKJrg.png) center / cover'}}>Angular Project #2 </CardTitle>
+			<CardTitle style={{color: '#fff', height:'200px', background: 'url(https://cdn-images-1.medium.com/max/945/1*aYD002x4UBQ4iJCRbiKJrg.png) center / cover'}}>Angular Project #2 </CardTitle>
 	          <CardText>
 	          Placeholder
 	          </CardText>
@@ -107,7 +107,7 @@ class Projects extends Component {
 
 	       {/* Project 3*/}
 		<Card shadow={5} style={{midWidth: '450', margin: 'auto'}}>
-			<CardTitle style={{color: '#fff', height:'176px', background: 'url(https://cdn-images-1.medium.com/max/945/1*aYD002x4UBQ4iJCRbiKJrg.png) center / cover'}}>Angular Project #3 </CardTitle>
+			<CardTitle style={{color: '#fff', height:'200px', background: 'url(https://cdn-images-1.medium.com/max/945/1*aYD002x4UBQ4iJCRbiKJrg.png) center / cover'}}>Angular Project #3 </CardTitle>
 	          <CardText>
 	          Placeholder
 	          </CardText>
@@ -131,7 +131,7 @@ class Projects extends Component {
 					<div className="projects-grid">
 	{/* Project 1*/}
 		<Card shadow={5} style={{midWidth: '450', margin: 'auto'}}>
-			<CardTitle style={{color: '#fff', height:'176px', background: 'url(https://miro.medium.com/max/900/1*SluXAlSPIxxWjwUsiqD2Kw.png) center / cover'}}>React Native Project #1 </CardTitle>
+			<CardTitle style={{color: '#fff', height:'200px', background: 'url(https://miro.medium.com/max/900/1*SluXAlSPIxxWjwUsiqD2Kw.png) center / cover'}}>React Native Project #1 </CardTitle>
 	          <CardText>
 	          Placeholder
 	          </CardText>
@@ -147,7 +147,7 @@ class Projects extends Component {
 	           </Card>
 	            	{/* Project 2*/}
 		<Card shadow={5} style={{midWidth: '450', margin: 'auto'}}>
-			<CardTitle style={{color: '#fff', height:'176px', background: 'url(https://miro.medium.com/max/900/1*SluXAlSPIxxWjwUsiqD2Kw.png) center / cover'}}>React Native Project #2 </CardTitle>
+			<CardTitle style={{color: '#fff', height:'200px', background: 'url(https://miro.medium.com/max/900/1*SluXAlSPIxxWjwUsiqD2Kw.png) center / cover'}}>React Native Project #2 </CardTitle>
 	          <CardText>
 	          Placeholder
 	          </CardText>
@@ -164,7 +164,7 @@ class Projects extends Component {
 
 	       {/* Project 3*/}
 		<Card shadow={5} style={{midWidth: '450', margin: 'auto'}}>
-			<CardTitle style={{color: '#fff', height:'176px', background: 'url(https://miro.medium.com/max/900/1*SluXAlSPIxxWjwUsiqD2Kw.png) center / cover'}}>React Native Project #3 </CardTitle>
+			<CardTitle style={{color: '#fff', height:'200px', background: 'url(https://miro.medium.com/max/900/1*SluXAlSPIxxWjwUsiqD2Kw.png) center / cover'}}>React Native Project #3 </CardTitle>
 	          <CardText>
 	          Placeholder
 	          </CardText>
@@ -187,7 +187,7 @@ class Projects extends Component {
 					<div className="projects-grid">
 	{/* Project 1*/}
 		<Card shadow={5} style={{midWidth: '450', margin: 'auto'}}>
-			<CardTitle style={{color: '#fff', height:'176px', background: 'url(https://dev.acquia.com/sites/default/files/blog/nodejs-new-pantone-black2.png) center / cover'}}>Node.js Project #1 </CardTitle>
+			<CardTitle style={{color: 'black', height:'200px', padding:'-3em', background: 'url(https://dev.acquia.com/sites/default/files/blog/nodejs-new-pantone-black2.png) center / cover'}}>Node.js Project #1 </CardTitle>
 	          <CardText>
 	          Placeholder
 	          </CardText>
@@ -203,7 +203,7 @@ class Projects extends Component {
 	           </Card>
 	            	{/* Project 2*/}
 		<Card shadow={5} style={{midWidth: '450', margin: 'auto'}}>
-			<CardTitle style={{color: '#fff', height:'176px', background: 'url(https://dev.acquia.com/sites/default/files/blog/nodejs-new-pantone-black2.png) center / cover'}}>Node.js Project #2 </CardTitle>
+			<CardTitle style={{color: 'black', height:'200px', background: 'url(https://dev.acquia.com/sites/default/files/blog/nodejs-new-pantone-black2.png) center / cover'}}>Node.js Project #2 </CardTitle>
 	          <CardText>
 	          Placeholder
 	          </CardText>
@@ -220,7 +220,7 @@ class Projects extends Component {
 
 	       {/* Project 3*/}
 		<Card shadow={5} style={{midWidth: '450', margin: 'auto'}}>
-			<CardTitle style={{color: '#fff', height:'176px', background: 'url(https://dev.acquia.com/sites/default/files/blog/nodejs-new-pantone-black2.png) center / cover'}}>Node.js Project #3 </CardTitle>
+			<CardTitle style={{color: 'black', height:'200px', background: 'url(https://dev.acquia.com/sites/default/files/blog/nodejs-new-pantone-black2.png) center / cover'}}>Node.js Project #3 </CardTitle>
 	          <CardText>
 	          Placeholder
 	          </CardText>
