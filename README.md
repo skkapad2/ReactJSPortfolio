@@ -1,3 +1,8 @@
+## ReactJSPortfolio
+This project is a portfolio of my key technical skills.
+
+![myportfolio](https://user-images.githubusercontent.com/36554307/49594443-83894c00-f93b-11e8-9e13-b7e46b370ec6.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
