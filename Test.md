@@ -2,7 +2,7 @@ Pro Team Incident Report Enrichment
 ==========================
 Overview
 --------
-This add compensation to case functionality of the application
+This feature adds new information to Flight Card in Dashboard. New information could include: Incident details, what type of compensation was given and how much compensation.
 
 Assumptions
 --------
