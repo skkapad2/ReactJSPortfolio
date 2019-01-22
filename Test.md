@@ -1,3 +1,26 @@
+Add Compensation 
+==========================
+Overview
+--------
+This add compensation to case functionality of the application
+
+Assumptions
+--------
+* The user has successfully reached the point of the process where adding compensation is required 
+* The case in question has met the criteria for compensation
+
+The Controls
+------------
+* Add Compensation Slider
+    * Default state has slider aligned in the middle of the range 
+    * Compensation slider limits within ranges dictated by United's guidelines
+* Compensation Category drop down
+    * Ex: Electronic Travel Certificate, Miles, Dollars 
+* Add hyperlink button
+    * Press to add a Compensation
+* Expand/Minimize button
+    * Will either expand or minimize the Compensation card
+    * The default state of the button will be to maximize the Compensation card
 * Drag and drop Overflow cards
     * User can drag an Overflow card and drop it over a minimized or maximized card to replace it
         * If dropped over a maximized card, the Overflow card will become maximized
