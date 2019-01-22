@@ -47,4 +47,4 @@ Live Wireframes: 'https://tbd'
 
 Interaction Design
 ----------------------------------
-* Display ProTeam Icon on Dashboard and ProTeam details in a popup.
+Display ProTeam Icon on Dashboard and ProTeam details in a popup.
