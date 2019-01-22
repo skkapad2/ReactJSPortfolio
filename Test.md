@@ -1,4 +1,4 @@
-Add Compensation 
+Pro Team Incident Report Enrichment
 ==========================
 Overview
 --------
@@ -47,14 +47,4 @@ Live Wireframes: 'https://tbd'
 
 Interaction Design
 ----------------------------------
-* Compensation range is determined by United AI
-* Compensation amount displays 
-* Overflow cards
-    * Will be represented as draggable icons to the right of the other cards in two scenarios:
-        * If the screen is not large enough to display all cards in minimized view at once, the ones that cannot be fully displayed will be displayed as Overflow cards
-        * When the user expands a card, all the others will align vertically to the right of the expanded card
-* Fields incorrectly filled out turn into red state 
-
-*Slider Animation Examples*
-![Login Screen Annotated Wireframe](images/Stretch_Slider_Animation.gif)
-![Login Screen Annotated Wireframe](images/Slider_Compenent.gif)
+* Display ProTeam Icon on Dashboard and ProTeam details in a popup.
