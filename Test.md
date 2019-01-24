@@ -21,9 +21,8 @@ Acceptance Criteria
 2. Passenger details will be displayed with compensation given 
 
 Feature Files
-TBD
+  * TBD
 ----------------------------------
-TBD
 Design Documents
 --------
 2018 January 23 Wireframe:
