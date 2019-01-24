@@ -6,6 +6,7 @@ This feature adds new information to Flight Card in Dashboard. New information c
 
 Assumptions
 --------
+* A Pro Team Incident is created when an entire flight is given compensation
 * The user has successfully reached the point of the process where adding compensation is required 
 * The case in question has met the criteria for compensation
 
