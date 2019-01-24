@@ -22,7 +22,7 @@ Acceptance Criteria
 
 Feature Files
   * TBD
-----------------------------------
+  
 Design Documents
 --------
 2018 January 23 Wireframe:
