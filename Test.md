@@ -14,6 +14,7 @@ The Controls
 ------------
 * Pro Team Incident Logo
    * Expands to popup with details of passengers who were compensated for
+
 Acceptance Criteria
 -----------------
 1. User presses the 'Pro Team Incident' logo
